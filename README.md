@@ -1,2 +1,0 @@
-# bookThing
-Class book thing
